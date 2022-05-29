@@ -1,0 +1,11 @@
+<ScanResults type="junk">
+    <dir name="c:\user\temp" items="3" sizeBytes="32324">
+        <file path="c:\temp\1.file" sizeBytes="23"/>
+        <file path="c:\temp\2.file" sizeBytes="25858"/>
+        <file path="c:\temp\3.file" sizeBytes="6443"/>
+    </dir>
+    <dir name="c:\windows\temp" items="2" sizeBytes="2343">
+        <file path="c:\windows\1.file" sizeBytes="43"/>
+        <file path="c:\windows\2.file" sizeBytes="2300"/>
+    </dir>
+</ScanResults>

@@ -1,0 +1,11 @@
+<ScanResults type="privacy">
+    <dir name="chrome" items="3" sizeBytes="32324">
+        <file path="c:\chrome\1.file" sizeBytes="23"/>
+        <file path="c:\chrome\2.file" sizeBytes="25858"/>
+        <file path="c:\chrome\3.file" sizeBytes="6443"/>
+    </dir>
+    <dir name="firefox" items="2" sizeBytes="2343">
+        <file path="c:\firefox\1.file" sizeBytes="43"/>
+        <file path="c:\firefox\2.file" sizeBytes="2300"/>
+    </dir>
+</ScanResults>
